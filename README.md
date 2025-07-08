@@ -10,4 +10,4 @@
 
 平台汇集了丰富的欧美及亚洲小视频内容，涵盖了剧情片、激情片等多种类型，满足不同观影需求。每个视频页面都提供详细的影片介绍，包括时长、演员阵容及清晰度等信息，支持高质量视频播放，并根据用户的网络情况优化画质，保证流畅观看体验。
 
-<span style="display:none;">[Canonical link](）</span>
+<span style="display:none;">[Canonical link](https://github.com/ha20250708/ha4 ）</span>
